@@ -1,0 +1,26 @@
+html,
+body {
+  background-color: #f9f9f9;
+}
+h1 {
+  font-size: 1.875rem; /* equivalent to text-3xl */
+  font-weight: 700; /* equivalent to font-bold */
+}
+
+h2 {
+  font-size: 1.5rem; /* equivalent to text-2xl */
+}
+
+h3 {
+  font-size: 1.25rem; /* equivalent to text-xl */
+}
+
+h4 {
+  font-size: 1.125rem; /* equivalent to text-lg */
+  font-weight: 700; /* equivalent to font-bold */
+}
+
+h5 {
+  font-size: 1rem; /* equivalent to text-base */
+}
+

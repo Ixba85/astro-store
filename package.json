@@ -9,6 +9,30 @@
     "astro": "astro"
   },
   "dependencies": {
-    "astro": "^5.2.3"
+    "@astrojs/db": "^0.14.6",
+    "@astrojs/netlify": "^6.1.0",
+    "@astrojs/react": "^4.2.0",
+    "@auth/core": "^0.37.4",
+    "@nanostores/preact": "^0.5.2",
+    "@nanostores/react": "^0.8.4",
+    "@tailwindcss/vite": "^4.0.3",
+    "@types/react": "^19.0.8",
+    "@types/react-dom": "^19.0.3",
+    "astro": "^5.2.3",
+    "auth-astro": "^4.2.0",
+    "bcryptjs": "^2.4.3",
+    "cloudinary": "^2.5.1",
+    "js-cookie": "^3.0.5",
+    "nanostores": "^0.11.3",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "sweetalert2": "^11.15.10",
+    "swiper": "^11.2.2",
+    "tailwindcss": "^4.0.3",
+    "uuid": "^11.0.5"
+  },
+  "devDependencies": {
+    "@types/bcryptjs": "^2.4.6",
+    "@types/js-cookie": "^3.0.6"
   }
 }
